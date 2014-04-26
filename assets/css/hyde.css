@@ -76,11 +76,21 @@ html {
 }
 
 /* About section */
+
+    @font-face {
+    font-family: 'Unibody8ProRegular';
+    src: url('webfonts/unibody8pro-regular.eot');
+    src: url('webfonts/unibody8pro-regular.eot') format('embedded-opentype'),
+    url('webfonts/unibody8pro-regular.woff') format('woff'),
+    url('webfonts/unibody8pro-regular.ttf') format('truetype'),
+    url('webfonts/unibody8pro-regular.svg#Unibody8ProRegular') format('svg');
+}
 .sidebar-about h1 {
-  color: #fff;
+  color: #ff5d00;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: 'Unibody8ProRegular', Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  font-size: 2.8rem;
 }
 
 /* Sidebar nav */
