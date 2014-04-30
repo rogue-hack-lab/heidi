@@ -22,6 +22,7 @@
  * Container
  * Reverse layout
  * Themes
+ * Random classes added by Mica Cardillo for Rogue Hack Lab theme
  */
 
 
@@ -264,11 +265,18 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
+
+/*  Random classes added by Mica Cardillo for RHL theme */
 .see-more {
   font-size: 0.7rem;
   color: #999999;
 }
 
 .sponsorlink {
-  font-size: 0.6rem;
+  font-size: 0.9rem;
+}
+
+.leadintro {
+  color: #1496a2;
+  background-color:rgba(0,0,0,.5);
 }
