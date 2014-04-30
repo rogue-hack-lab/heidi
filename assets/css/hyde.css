@@ -93,6 +93,11 @@ html {
   font-size: 2.8rem;
 }
 
+.minitile {
+	background-image:url('../images/minitile.jpg');
+	background-repeat:repeat;
+	}
+
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
