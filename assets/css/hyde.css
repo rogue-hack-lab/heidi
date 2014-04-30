@@ -268,3 +268,7 @@ a.sidebar-nav-item:focus {
   font-size: 0.7rem;
   color: #999999;
 }
+
+.sponsorlink {
+  font-size: 0.6rem;
+}
